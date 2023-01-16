@@ -1,32 +1,32 @@
 # SetUpMac
 
-## Programe
+## Progream
 - Line(Appstore)
 - CleanMyMac X(Appstore)
 - [Goolge Chrome](https://www.google.com/chrome/?brand=YTUH&gclid=CjwKCAiA5Y6eBhAbEiwA_2ZWIa9aMmdXvzqsXF7jACCog8rxgGB8Y6UuIAXyImWq2Oz7ea2uCbQK0xoCU3kQAvD_BwE&gclsrc=aw.ds)
 - [Discord](https://discord.com/)
 
 
-## ProgrameTeams
+## ProgreamTeams
 - [MicrosoftTeams](https://www.microsoft.com/th-th/microsoft-teams/download-app)
 
 ## Tool(Test API)
 - [Postman](https://www.postman.com/downloads/)
-## ToolProgramer(Mobile)
+## ToolProgramming(Mobile)
 - XCode(Appstore)
 - [Vscode](https://code.visualstudio.com/download)
 - [AndroidStudio](https://developer.android.com/studio?gclid=CjwKCAiA5Y6eBhAbEiwA_2ZWIdzS1dnTwId53n6wo3gK7UTzDuwntb4XIx1HNY7w8wpEqhDL-rByfxoCpsgQAvD_BwE&gclsrc=aw.ds)
 - [Flutter SDK](https://docs.flutter.dev/get-started/install)
 
-## ToolProgramer(font-end)
+## ToolProgramming(font-end)
 - [node.js](https://nodejs.org/en/) (NPM)
 - [Next.js](https://nextjs.org/docs)
 
-## ToolProgramer(back-end)
+## ToolProgramming(back-end)
 - [Golang](https://go.dev/learn/)
 - [Docker](https://www.docker.com) OR [Rancherdesktop](https://rancherdesktop.io/)
 
-## ToolProgramer(SQL)
+## ToolProgramming(SQL)
 - [DBeaver](https://dbeaver.io/download/)
 ## Music
 - GaragBand(AppStore)
