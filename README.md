@@ -4,6 +4,8 @@
 - Line(Appstore)
 - CleanMyMac X(Appstore)
 - [Goolge Chrome](https://www.google.com/chrome/?brand=YTUH&gclid=CjwKCAiA5Y6eBhAbEiwA_2ZWIa9aMmdXvzqsXF7jACCog8rxgGB8Y6UuIAXyImWq2Oz7ea2uCbQK0xoCU3kQAvD_BwE&gclsrc=aw.ds)
+- [Discord](https://discord.com/)
+
 
 ## ProgrameTeams
 - [MicrosoftTeams](https://www.microsoft.com/th-th/microsoft-teams/download-app)
@@ -41,3 +43,6 @@
 - HTML CSS Support
 - Tailwind CSS IntelliSense
 - Thunder Client
+
+## Music
+- garagBand(AppStore)
