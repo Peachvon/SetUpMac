@@ -27,6 +27,8 @@
 
 ## ToolProgramer(SQL)
 - [DBeaver](https://dbeaver.io/download/)
+## Music
+- GaragBand(AppStore)
 
 # VsCodeExtension
 
@@ -44,5 +46,3 @@
 - Tailwind CSS IntelliSense
 - Thunder Client
 
-## Music
-- garagBand(AppStore)
